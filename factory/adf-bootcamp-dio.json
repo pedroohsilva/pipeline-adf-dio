@@ -1,0 +1,9 @@
+{
+	"name": "adf-bootcamp-dio",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e82f15c8-c208-4929-9629-fae32c9d3cb7",
+		"tenantId": "da49a844-e2e3-40af-86a6-c3819d704f49"
+	}
+}
